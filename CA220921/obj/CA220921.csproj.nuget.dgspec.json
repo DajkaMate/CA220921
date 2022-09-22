@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dajka.mate\\source\\repos\\CA220921\\CA220921.csproj": {}
+    "C:\\Users\\dajka.mate\\Source\\Repos\\CA220921\\CA220921\\CA220921.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dajka.mate\\source\\repos\\CA220921\\CA220921.csproj": {
+    "C:\\Users\\dajka.mate\\Source\\Repos\\CA220921\\CA220921\\CA220921.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dajka.mate\\source\\repos\\CA220921\\CA220921.csproj",
+        "projectUniqueName": "C:\\Users\\dajka.mate\\Source\\Repos\\CA220921\\CA220921\\CA220921.csproj",
         "projectName": "CA220921",
-        "projectPath": "C:\\Users\\dajka.mate\\source\\repos\\CA220921\\CA220921.csproj",
+        "projectPath": "C:\\Users\\dajka.mate\\Source\\Repos\\CA220921\\CA220921\\CA220921.csproj",
         "packagesPath": "C:\\Users\\dajka.mate\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dajka.mate\\source\\repos\\CA220921\\obj\\",
+        "outputPath": "C:\\Users\\dajka.mate\\Source\\Repos\\CA220921\\CA220921\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dajka.mate\\AppData\\Roaming\\NuGet\\NuGet.Config",
